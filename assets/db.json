@@ -1,0 +1,74 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "description": "HTMLLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "CSS",
+      "description": "CSSLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "JavaScript",
+      "description": "JavaScriptLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "GIT",
+      "description": "GITLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "React",
+      "description": "ReactLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "Node",
+      "description": "NodeLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "NextJS",
+      "description": "NextJSLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "MongoDB",
+      "description": "MongoDBLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "Typescript",
+      "description": "TypescriptLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    },
+    {
+      "name": "AWS",
+      "description": "AWSLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusamus mollitia vel architecto. Vitae mollitia quidem esse cum rem et?"
+    }
+  ],
+  "proyectos": [
+    {
+      "name": "Ecommerce prodcut page",
+      "skillsUsed": [
+        { "name": "HTML" },
+        { "name": "CSS" },
+        { "name": "JavaScript" }
+      ],
+      "img": "/images/shop.svg"
+    },
+    {
+      "name": "Exploty kittens page",
+      "skillsUsed": [
+        { "name": "HTML" },
+        { "name": "CSS" },
+        { "name": "JavaScript" },
+        { "name": "AWS" }
+      ],
+      "img": "/images/dapps.jpg"
+    },
+    {
+      "name": "Web3 DAPP page",
+      "skillsUsed": [
+        { "name": "React" },
+        { "name": "NextJS" },
+        { "name": "Solidity" }
+      ],
+      "img": "/images/ExplodingKittens.jpg"
+    }
+  ]
+}
